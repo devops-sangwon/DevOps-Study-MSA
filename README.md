@@ -11,3 +11,4 @@ Through this, I want to grow as a devops engineer.
 
 ## Architecture design
 
+![image](https://user-images.githubusercontent.com/50174803/149179072-165571c2-3643-4538-98dc-af4aeff254ee.png)
